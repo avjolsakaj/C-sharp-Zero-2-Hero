@@ -66,16 +66,16 @@ Each module has:
 
 1. Setup & First Run  
 2. Variables & Input/Output  
-3. Decisions (if/switch)  
-4. Loops (for, while, foreach)  
+3. Decisions
+4. Loops
 5. Methods & Parameters  
-6. Collections (arrays, List<T>)  
+6. Collections
 7. Strings & Text  
 8. Time, Random & Math  
 9. Error Handling & Nullability  
 10. Files & Folders  
 11. Structs, Enums, Tuples  
-12. OOP Basics (classes & records)  
+12. OOP Basics
 13. Interfaces & Polymorphism  
 14. LINQ for Beginners  
 15. Final Project — Habit Tracker  
