@@ -6,8 +6,7 @@
 This course is **visual-first**:  
 - Almost no terminal commands (everything runs from the VS Code UI).  
 - Step-by-step lessons with guided exercises and short exams.  
-- Each module comes with **before/after code**, **cheat sheets**, and **exam instructions**.  
-- Two language tracks: **English (EN-US)** and **Albanian (AL)**.
+- Each module comes with **before/after code**, **cheat sheets**, and **test instructions**.
 
 ---
 
@@ -39,8 +38,6 @@ csharp-zero-to-hero/
 │  │  ├─ after/     # Completed solution
 │  │  └─ assets/    # Cheat sheets, exams, transcripts
 │  └─ module-01-variables/...
-├─ al/              # Albanian series
-│  └─ module-01-variables/... (mirrors en-us)
 └─ README.md        # Overview and instructions
 ```
 
@@ -53,12 +50,12 @@ Each module has:
 
 ## How To Use
 
-1. Pick your language folder (**en** or **al**).  
+1. Pick your language folder (**en**).  
 2. Download the **before/** project for the module you want to start.  
 3. Follow the lesson video step by step.  
 4. Complete the guided exercise.  
 5. Compare with the **after/** solution.  
-6. Attempt the exam task to check your knowledge.
+6. Attempt the test task to check your knowledge.
 
 ---
 
