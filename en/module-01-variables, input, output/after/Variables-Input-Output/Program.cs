@@ -1,10 +1,24 @@
-﻿Console.Write("What is your favorite number? ");
-string? numInput = Console.ReadLine();
-if (int.TryParse(numInput, out int num))
+﻿Console.WriteLine("Enter your name:");
+
+string name = Console.ReadLine();
+
+Console.WriteLine("Enter your Age:");
+
+string age = Console.ReadLine();
+
+// int ageNumber = int.Parse(age);
+/*
+First line
+Second line
+*/
+var valid = int.TryParse(age, out int ageNumber);
+
+if (valid)
 {
-    Console.WriteLine($"Double your number is {num * 2}.");
+    // Console.WriteLine("Hello " + name);
+    Console.WriteLine($"Hello {name}, your age is {ageNumber}");
 }
 else
 {
-    Console.WriteLine("That's not a number.");
+    Console.WriteLine("This is not a valid age, program is finished!");
 }
