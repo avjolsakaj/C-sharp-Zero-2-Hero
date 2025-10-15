@@ -1,4 +1,4 @@
-# Module 1 — Variables & Input/Output (Student Version)
+# Module 1 — Variables & Input/Output
 
 Welcome back! Today we’ll learn how to store data in variables and get input from the user.
 
