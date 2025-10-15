@@ -23,7 +23,7 @@
 
 Expected Output:
 ```
-Hello from Alex! Today is 2025-08-21.
+Hello from Avjol! Today is 2025-08-21.
 Goal: Learn C# step by step.
 ```
 

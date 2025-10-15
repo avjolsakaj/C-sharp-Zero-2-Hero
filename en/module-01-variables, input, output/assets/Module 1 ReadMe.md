@@ -70,14 +70,14 @@ Create a new project called **HelloInfo**. Your program should:
 
 **Example Output:**
 ```
-Enter your name: Alex
+Enter your name: Avjol
 Enter your age: 20
 Hello Alex, you are 20 years old.
 ```
 
 Or, if invalid:
 ```
-Enter your name: Alex
+Enter your name: Avjol
 Enter your age: twenty
 That’s not a valid age.
 ```
